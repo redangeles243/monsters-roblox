@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monsters-roblox/static/css/main.e9fcc3ae.chunk.css",
-    "main.js": "/monsters-roblox/static/js/main.acc7e212.chunk.js",
-    "main.js.map": "/monsters-roblox/static/js/main.acc7e212.chunk.js.map",
+    "main.js": "/monsters-roblox/static/js/main.c8616779.chunk.js",
+    "main.js.map": "/monsters-roblox/static/js/main.c8616779.chunk.js.map",
     "runtime-main.js": "/monsters-roblox/static/js/runtime-main.d7b101c9.js",
     "runtime-main.js.map": "/monsters-roblox/static/js/runtime-main.d7b101c9.js.map",
     "static/js/2.f77fe04e.chunk.js": "/monsters-roblox/static/js/2.f77fe04e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7b101c9.js",
     "static/js/2.f77fe04e.chunk.js",
     "static/css/main.e9fcc3ae.chunk.css",
-    "static/js/main.acc7e212.chunk.js"
+    "static/js/main.c8616779.chunk.js"
   ]
 }
